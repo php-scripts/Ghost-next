@@ -1,0 +1,30 @@
+body {
+  font-family: sans-serif;
+  max-width: 60em;
+  margin: auto;
+  padding-top: 3px;
+  border: 0px solid gray;
+  background: #CCC url('img/bg.png') repeat;
+  color: #A5A5A5; 
+  text-align:center;
+}
+h1{
+	margin:0;
+	padding:0;
+}
+input[type=text],textarea{
+	border:1px solid #ccc;
+	width:100%;
+}
+span.name {
+  font-weight: bold;
+  margin-right: 1ex;
+  color: #CCC;
+}
+div.feedback {
+  font-weight: normal;
+  padding-left: 20px;
+  background: url('img/system-users.png') no-repeat 0px 2px;
+  padding-bottom: 1ex;
+  text-align:left;
+}

@@ -1,0 +1,151 @@
+body {
+  font-family: sans-serif;
+  max-width: 60em;
+  margin: auto;
+  padding-top: 1em;
+  border: 0px solid gray;
+  background: #CCC url('img/bg.png') repeat;
+  color: #A5A5A5; 
+}
+
+#logo {
+  /* display: none; */
+  max-width: 300px;
+  min-height: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  background: url('img/logo.png') no-repeat;
+}
+
+#logo h1 {
+  margin: 0px;
+  padding: 0px;
+  font-size: 36px;
+  text-align: right;
+}
+
+#logo h2 {
+  margin: 0px;
+  padding: 0px;
+  text-align: right;
+  font-size: 9px;
+  color: gray;
+}
+
+#top_sub
+{
+    float: right; 
+}
+
+
+a {
+  text-decoration: none;
+  color: #A5A5A5;
+}
+
+a:visited {
+  color: #666666;;
+}
+
+a:hover {
+  color: #666666;
+}
+
+input[type="text"] {
+  width: 100%;
+  margin: auto;
+}
+
+input[type="radio"] {
+  margin-top: 6px;
+}
+
+input[type="submit"] {
+  /* 
+  width: 15%;
+  margin: auto;
+  */
+}
+input,textarea{
+	border: 1px solid #000;
+	-webkit-border-radius:3px;
+	-moz-border-radius:3px;
+	border-radius:3px;
+}
+/*
+div.quenpustion:before {
+  content: 'ty: ';
+  font-weight: bold; 
+}
+*/
+
+.copy{
+	text-align: right;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	font-size: 11pt; 
+	right:5px;
+}
+
+div.question {
+  padding-left: 20px;
+  background: url('img/user.png') no-repeat 0px 4px;
+}
+
+/*
+div.answer:before {
+  content: 'ghost: ';
+  font-weight: bold; 
+}
+*/
+
+div.answer {
+  font-weight: bold;
+  padding-left: 20px;
+  background: url('img/icon.png') no-repeat 0px 4px;
+  padding-bottom: 1ex;
+  color: #CCC;
+}
+
+a.improve {
+  color: gray;
+  margin-left: 1ex;
+}
+
+div.improve {
+  margin-top: 1em;
+  font-weight: bold;
+}
+
+input.improve {
+  display: block;
+  margin: 0px;
+  margin-top: 1em;
+}
+
+div.buttons {
+  /*border-bottom: 1px solid gray;*/
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+div.feedback {
+  font-weight: normal;
+  padding-bottom: 1ex;
+}
+
+span.name {
+  font-weight: bold;
+  margin-right: 1ex;
+  color: #CCC;
+}
+
+.messages{
+	height: 68%;
+	overflow: auto;
+	border: 1px solid #000000;
+	background: url('img/msg-bg.png') repeat;
+}
+
+

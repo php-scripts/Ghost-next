@@ -1,0 +1,10 @@
+<div class="feedback"><span class="name">ghost fan : </span>i removed chat.txt , i replace it with sessions , it faster , and the chat is private for every one</div>
+<div class="feedback"><span class="name">ghost fan : </span>i changed background image</div>
+<div class="feedback"><span class="name">dvh : </span>Looks good.</div>
+<div class="feedback"><span class="name">ghost fan : </span>new logo done</div>
+<div class="feedback"><span class="name">ghost fan : </span>i added an option to disable feedback form</div>
+<div class="feedback"><span class="name">ghost fan : </span>some improvement in feedback popup</div>
+<div class="feedback"><span class="name">ghost fan</span>i removed feedback and i used it as a popup</div>
+<div class="feedback"><span class="name">ghost fan</span>plannig to remove feadback and used as popup</div>
+<div class="feedback"><span class="name">ghost fan</span>i added an option to disable log</div>
+<div class="feedback"><span class="name">ghost fan</span>i added an option to clean the chat.txt file</div>
