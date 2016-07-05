@@ -1,0 +1,92 @@
+what time it is
+$time;
+what time is it
+$time;
+what is the time
+$time;
+anybody know what time it is
+$time;
+don't you know what time it is
+$time;
+tell me what time it is
+$time;
+what's the time
+$time;
+$timereply;
+at my watches there are
+$timereply;
+my watches show
+$timereply;
+exact time is
+$timereply;
+right now is
+$timereply;
+it is
+what is the date
+$date;
+what date is today
+$date;
+what is today
+$date;
+$datereply;
+it's
+$datereply;
+current date is
+$datereply;
+today is
+$datereply;
+todays date is
+$eval;
+count
+$eval;
+how much is
+$eval;
+evaluate
+$eval;
+eval
+$eval;
+how many is
+$eval;
+what is
+$eval;
+calculate
+$eval;
+calculate me
+$evalreply;
+about
+$evalreply;
+approximately
+$evalreply;
+maybe
+$evalreply;
+perhaps
+$evalreply;
+cca
+$evalreply;
+if i am not wrong, it would be
+$evalreply;
+if i am correct, it is
+$evalreply;
+that would be
+$evalreply;
+around
+$evalreply;
+my guess
+$evalreply;
+it is
+$fail;
+that cannot be calculated
+$fail;
+an infinite number
+$fail;
+that's not correct
+$fail;
+cannot count that
+$fail;
+i have no idea
+$fail;
+that's too much for me
+$fail;
+cannot calculate that either
+$fail;
+who knows
